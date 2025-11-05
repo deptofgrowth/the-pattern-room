@@ -7,10 +7,10 @@ If there’s one thing we appreciate at the Department, it’s the beauty in num
 ## What You’ll Find
 
 Each script in this repository is a small study in generative design and computational aesthetics:
-- Fractals — Mandelbrot, Julia, and other recursive worlds
-- Sequences — Collatz, Fibonacci, and number-driven visualizations
-- Automata — Conway’s Game of Life, diffusion models, rule-based growth
-- Chaos & Order — simulations that reveal emergent structure from simple rules
+- Fractals: Mandelbrot, Julia, and other recursive worlds
+- Sequences: Collatz, Fibonacci, and number-driven visualizations
+- Automata: Conway’s Game of Life, diffusion models, rule-based growth
+- Chaos & Order: simulations that reveal emergent structure from simple rules
 
 ## Why It Exists
 
