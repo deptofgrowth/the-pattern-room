@@ -28,5 +28,7 @@ python -i  mandelbrot.py
 ```
 ## License
 MIT - use freely, remix boldly, and if you build something beautiful, show us!
-
+ 
+&nbsp;
+ 
 <img src="./assets/dog_symbol.png" alt="The Department of Growth" width="360" style="height:auto;" />
