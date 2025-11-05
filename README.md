@@ -1,6 +1,6 @@
 # Welcome to The Pattern Room
 
-A collection of scripts that explore the boundary between mathematics, data science, and art — from fractals and cellular automata to emergent visual systems.
+A collection of scripts that explore the boundary between mathematics, data science, and art - from fractals and cellular automata to emergent visual systems.
 
 If there’s one thing we appreciate at the Department, it’s the beauty in numbers. Here we translate mathematical structures into form, uncovering how logic and randomness combine to produce patterns that feel almost alive.
 
@@ -19,7 +19,7 @@ At the Department of Growth, we believe creativity doesn’t belong only to arti
 ## How to Use
 
 Each project lives in its own directory with a short README and a main script.
-Clone the repository and experiment freely: tweak parameters, colors, and rules — see what emerges.
+Clone the repository and experiment freely: tweak parameters, colors, and rules - see what emerges.
 
 ```bash
 git clone https://github.com/deptofgrowth/the-pattern-room.git
