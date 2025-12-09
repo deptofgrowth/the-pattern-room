@@ -4,7 +4,7 @@
 # Date: 2024-06-11
 
 """
-This is a animated Matplotlib implementation of the Mandelbrot fractal.
+This is an animated Matplotlib implementation of the Mandelbrot fractal.
 
 This code will save a .gif or .mp4 of your fractal to the same folder.
 """
